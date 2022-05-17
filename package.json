@@ -1,0 +1,23 @@
+{
+  "name": "eb-example",
+  "version": "1.0.0",
+  "description": "https://medium.com/avmconsulting-blog/how-to-deploy-a-node-app-on-aws-elastic-beanstalk-with-docker-9664e5841fe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-freeman/node-eb-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-freeman/node-eb-example/issues"
+  },
+  "homepage": "https://github.com/shawn-freeman/node-eb-example#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
